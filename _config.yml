@@ -6,9 +6,9 @@ color:
   saturation: 0.14245328400284052
   rhythmicContrast: 0.269756248453632
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
 name: borromeo
