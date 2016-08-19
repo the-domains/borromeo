@@ -1,0 +1,14 @@
+layout_spectrum: 0.5360950380563736
+typography_spectrum: 0.8376084556803107
+color:
+  brandStrength: 0.08824706613086164
+  lightness: 0.22608940349891782
+  saturation: 0.14245328400284052
+  rhythmicContrast: 0.269756248453632
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: borromeo
